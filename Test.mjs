@@ -5,4 +5,4 @@ const c = "Harry";
 const d = "Virat";
 
 export default a; 
-export {b}; 
+export { b }; 
